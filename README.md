@@ -8,4 +8,4 @@ Utilizing the Contoso Sales dataset and Power BI tool, this project aims to:
 The project aims to serve the Sale Department and Type of Analysis is Sale Strategy (Year-over-Year).
 
 ## 2. Dataset
-Contoso Sales is a standardized dataset provided by Power BI. The dataset includes over two million rows of sales data for the fictitious company, Contoso Inc.from 2007-2009
+Contoso Sales is a standardized dataset provided by Power BI. The dataset includes over two million rows of sales data for the fictitious company, Contoso Inc.from 2007-2009. The dataset can be accessed via this link: https://drive.google.com/file/d/1bK6Wja9upg5E7VUEtSJoccVEvFxs16_a/view?usp=share_link
