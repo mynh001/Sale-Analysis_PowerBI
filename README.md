@@ -1,9 +1,9 @@
 # Contoso Sales Analysis_Power BI
 
 ## 1. Objective
-Utilizing the Contoso Sales dataset, this project aims to: 
-* a. Doing DAR (Dashboard - Analysis - Reporting) report for Sales Analysis subject using Power BI
-* b. From the DAR report, one of the problems identified is the Revenue from Store Channel was decreasing. Therefore, besides the DAR dashboard, a presentation slide is provided to answer the following question: Which Product/Market to focus on to improve Revenue from Store Channel?
+Utilizing the Contoso Sales dataset and Power BI tool, this project aims to: 
+* a. Doing DAR (Dashboard - Analysis - Reporting) report for Sale Analysis. This report is for weekly/monthly tracking purpose
+* b. From the DAR report, one of the problems identified is the Revenue from Store Channel was decreasing. Therefore, besides the DAR dashboard, a presentation slide is provided to answer the following question: Which Product/Market to focus on to improve Revenue from Store Channel?. This report is for ad-hoc purpose. 
 
 The project aims to serve the Sale Department and Type of Analysis is Sale Strategy (Year-over-Year).
 
